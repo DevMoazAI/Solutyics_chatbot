@@ -1,0 +1,5 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore company secrets or internal info
+company_info.txt
